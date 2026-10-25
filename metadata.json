@@ -1,0 +1,6 @@
+{
+  "name": "HealthMate AI - My Health Journey",
+  "description": "Comprehensive wellbeing progress scorecard, Then vs Now comparisons, smart 7-day action plans, safe daily recommendations, smart food guide, and responsible health safety screening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
